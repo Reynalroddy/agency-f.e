@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+li>a:hover{
+color: black;
+background: 	rgb(255, 193, 7);
+
+}
+.h-100{
+
+
+  min-height: 100vh;
+}
+#showcase{
+background-image: linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(img/bg-banner-house-agent.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+.showcaseText{
+
+color: #C89B7B;
+
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+background-color:#C89B7B ;
+border-radius: 50% ;
+color: black;
+}
